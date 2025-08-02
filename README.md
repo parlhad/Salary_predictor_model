@@ -1,4 +1,5 @@
 # Salary Predictor using Linear Regression 📈
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://salarypredictormodel-4vdndbjuxpqudxdk34w9u3.streamlit.app/)
 
 This project uses **Machine Learning (Linear Regression)** to predict salaries based on years of experience.
 
