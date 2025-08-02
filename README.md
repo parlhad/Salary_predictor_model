@@ -45,6 +45,13 @@ This project uses **Machine Learning (Linear Regression)** to predict salaries b
 ## 🙋‍♂️ Author
 **Parlhad Jadhav**  
 [GitHub Profile](https://github.com/parlhad)
+
+
+## 🔮 Future Improvements
+- Add more features (e.g., education level, job role)
+- Try other models (e.g., Decision Tree, Random Forest)
+- Add download option for predictions
+
 git add README.md
 git commit -m "Added project README"
 git push
