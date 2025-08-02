@@ -6,7 +6,7 @@ This project uses **Machine Learning (Linear Regression)** to predict salaries b
 - `Machin_Learning.ipynb` – Model training and evaluation notebook
 - `Salary_Data.csv` – Dataset used for training
 - `app1.py` – Streamlit web app code to interact with the model
-- `REQUERMENT.txt` – Required libraries list
+- `requerment.txt` – Required libraries list
 
 ## 🚀 How to Run
 
@@ -28,8 +28,11 @@ This project uses **Machine Learning (Linear Regression)** to predict salaries b
 - Predict salaries interactively
 - Web-based UI using Streamlit
 
+
 ## 📸 Screenshot
-*(Salary_Predictor_Model.png)*
+
+![Salary Predictor Screenshot](Salary_Predictor_Model.png)
+
 
 ---
 
