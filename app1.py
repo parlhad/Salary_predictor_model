@@ -30,7 +30,7 @@ st.markdown("---")
 st.write("🚀 Enter your years of experience to get the predicted salary and explore the chart below!")
 
 # Load model
-model = joblib.load(r"C:\Users\hp\Desktop\training\reg_model.pkl")
+model = joblib.load("reg_model.pkl")
 
 # User Input
 exp = st.number_input("📊 Years of Experience", min_value=0.0, max_value=50.0, step=0.1)
