@@ -29,7 +29,7 @@ This project uses **Machine Learning (Linear Regression)** to predict salaries b
 - Web-based UI using Streamlit
 
 ## 📸 Screenshot
-*(Add a screenshot here after running the Streamlit app)*
+*(Salary_Predictor_Model.png)*
 
 ---
 
